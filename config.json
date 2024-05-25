@@ -1,0 +1,19 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "MINI-LMS API"
+    },
+    "secret": "qwertyuiopasdfghjkl",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth" : {
+            "user" : "gia.daniel73@ethereal.email",
+            "pass" : "AAZHPHDHUTahtbRAqD"
+        }
+    }
+}
